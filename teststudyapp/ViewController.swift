@@ -21,6 +21,7 @@ class ViewController: UIViewController
         view.backgroundColor = UIColor.blue
         
         // adam changes things
+        // hello
     }
         
 
